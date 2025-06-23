@@ -27,4 +27,4 @@ int main() {
 	cin >> a;
 	opp((2050-a)<26);
 	return 0;
-}TIMA
+}
